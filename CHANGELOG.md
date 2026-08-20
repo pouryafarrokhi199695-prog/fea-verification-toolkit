@@ -2,7 +2,7 @@
 
 ## 1.0.0 — 2026-08-20
 
-- Promoted the toolkit to the first public-release candidate after MATLAB runtime verification.
+- Promoted the toolkit to the first public release after MATLAB runtime verification.
 - Confirmed the complete self-test suite passes in MATLAB.
 - Confirmed both supplied example scripts execute successfully.
 - Retained the NASA Glenn three-grid GCI benchmark regression test.
